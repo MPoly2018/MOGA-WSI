@@ -1,5 +1,5 @@
 
-# ServiceIdentification
+# MOGA-WSI
 
 It's a java program with a javafx interface based on the paper *"A Spanning Tree Based Approach to Identifying Web Services"* by Hemant Jain, Huimin and Nageswara R. Chinta.
 By using a static and dynamic dependency model and applying to it a maximum spanning tree, it generates a first model that is later refined with a genetic algorithm.
